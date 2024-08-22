@@ -1,3 +1,6 @@
 
 /Song
 *.mp4
+*.mp3
+/.idea
+*.pyc
